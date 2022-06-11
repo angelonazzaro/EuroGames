@@ -1,5 +1,6 @@
 # EuroGames
 This project has been realized for the DataBases Exam. It is a Java GUI which interacts with the DB using JDBC.  
+<br>
 It is possibile to perform the following operations on the DB via the app: ```SELECT```, ```INSERT```, ```UPDATE```, ```DELETE``` and whatever ```CUSTOM QUERY``` you can come up with.
 
 ## Demo
