@@ -6,6 +6,12 @@ Here are some screenshot of the application:
 <div align="center">
   <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main.jpeg" />
 </div>
+<div align="left">
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main_query.jpeg" />
+</div>
+<div align="right">
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main_select.jpeg" />
+</div>
 
 ## Technologies used
 This project has been coded with: ```Java``` and ```MySQL```.
