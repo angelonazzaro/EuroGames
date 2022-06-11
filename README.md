@@ -4,7 +4,7 @@ This project has been realized for the DataBases Exam. It is a Java GUI which in
 ## Demo
 Here are some screenshot of the application:
 <div align="center">
-  
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main.jpeg" />
 </div>
 
 ## Technologies used
