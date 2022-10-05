@@ -19,4 +19,4 @@ Here are some screenshot of the application:
 This project has been coded with: ```Java```, ```Java Swing```, ```JDBC Connector``` and ```MySQL```.
 
 ## Collaborators & Contributors
-I'd like to mention and thank @[Francesco_Granozio](https://github.com/Francesco-Granozio) with whom I realized the project. 
+I'd like to mention and thank [@Francesco_Granozio](https://github.com/Francesco-Granozio) with whom I realized the project. 
